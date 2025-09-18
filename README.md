@@ -8,5 +8,5 @@ Additional modules not included in the core of Legend of the Green Dragon.
 In order to use these modules you either need my version of Legend of the Green Dragon, or the version from [Oliver Brendel](https://github.com/NB-Core/lotgd), which mine is based on.
 
 # Additional modules
-You can find some additional modules made by my good friend [Oliver Brendel](https://github.com/NB-Core/modules)
-Both these modules, as well as the modules from Oliver assume a working and correctly installed instance of either my Gielinor edition, or the NB core.
+You can find some additional modules made by my good friend [Oliver Brendel](https://github.com/NB-Core/modules).
+Both my modules, as well as the modules from Oliver assume a working and correctly installed instance of either my Gielinor edition, or the NB core.
