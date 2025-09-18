@@ -1,5 +1,6 @@
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP%208.4-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/OpenAI%20Codex-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+[![Discord](https://img.shields.io/badge/Join%20the%20Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/dWEDQMaTcn)
 
 # Legend of the Green Dragon modules
 Additional modules not included in the core of Legend of the Green Dragon.
