@@ -14,5 +14,5 @@ Both my modules, as well as the modules from Oliver assume a working and correct
 
 # Currently available modules
 
-- Skills Core
-Enables the player skills. When enabled it allows players to train a new set of skills such as Firemaking, Mining, Smithing etc. This module will eventually be extended to allow all RuneScape skills from Old School RuneScape. 
+** Skill Core
+-Enables the player skills. When enabled it allows players to train a new set of skills such as Firemaking, Mining, Smithing etc. This module will eventually be extended to allow all RuneScape skills from Old School RuneScape. 
