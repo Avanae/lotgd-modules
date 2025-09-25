@@ -5,12 +5,12 @@ use Lotgd\MySQL\Database;
 function skills_getmoduleinfo(): array
 {
     return [
-        'name' => 'Skills Display Core',
-        'version' => '1.4.0',
+        'name' => 'Skill Core Module',
+        'version' => '1.0.0',
         'author' => '`7J`te`7f`tf`7r`te`7y `tH`7o`te`7g`te`7e',
         'category' => 'Skills',
         'download' => 'core_module',
-        'description' => 'Provides a shared charstats section for player skill modules.',
+        'description' => 'Enables Player skills that can be trained to a maximum of 99.',
         'settings' => skills_get_settings_definition(),
     ];
 }
